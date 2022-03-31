@@ -1,4 +1,4 @@
-# 前端项目检查清单
+# Node.js项目检查清单
 
 由 [@hylerrix](https://github.com/hylerrix)提供， 基于： [Node Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 
